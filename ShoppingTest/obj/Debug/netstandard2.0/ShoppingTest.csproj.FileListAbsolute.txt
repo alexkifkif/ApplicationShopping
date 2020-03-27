@@ -1,0 +1,16 @@
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\bin\Debug\netstandard2.0\ShoppingTest.deps.json
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\bin\Debug\netstandard2.0\ShoppingTest.dll
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\bin\Debug\netstandard2.0\ref\ShoppingTest.dll
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\bin\Debug\netstandard2.0\ShoppingTest.pdb
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\ShoppingTest.AssemblyInfoInputs.cache
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\ShoppingTest.AssemblyInfo.cs
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\ShoppingTest.dll
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\ref\ShoppingTest.dll
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\ShoppingTest.pdb
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\ShoppingTest.csprojAssemblyReference.cache
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\Pages\Caracteristics.xaml.g.cs
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\Pages\Listing.xaml.g.cs
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\ShoppingTest.csproj.CoreCompileInputs.cache
+C:\Users\coladaitp19-kal\source\repos\ShoppingTest\ShoppingTest\ShoppingTest\obj\Debug\netstandard2.0\XamlC.stamp
