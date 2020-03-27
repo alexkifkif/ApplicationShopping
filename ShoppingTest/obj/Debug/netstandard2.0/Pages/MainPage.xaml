@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ShoppingTest.Pages.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Frame OutlineColor="Black">
+            <Label Text="Nom" FontSize="Large"/>
+        </Frame>
+        <Entry x:Name="Name" Placeholder="Nom"/>
+        
+        <Frame OutlineColor="Black">
+            <Label x:Name="PriceLabel" FontSize="Large" />
+        </Frame>
+        <Slider x:Name="PriceSlider" Maximum="200" Minimum="1"
+                ValueChanged="OnSliderValueChanged" 
+                Value="{Binding SliderValue}"                
+                MaximumTrackColor="Red" MinimumTrackColor="Yellow" ThumbColor="Black"/>        
+
+        <Frame OutlineColor="Black">
+            <Label x:Name="QuantityLabel" Text="Quantité" FontSize="Large"/>
+        </Frame>
+        <Stepper x:Name="QuantityStepper"  ValueChanged="OnStepperValueChanged"
+                 Value="{Binding StepperValue}" />
+
+        <Frame OutlineColor="Black">
+            <Label Text="Lieu" FontSize="Large"/>
+        </Frame>
+        <Picker x:Name="CityPicker"
+        Title="Sélectionner une ville"
+        TitleColor="Coral">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Lille</x:String>
+                    <x:String>Marseille</x:String>
+                    <x:String>Paris</x:String>
+                    <x:String>Strasbourg</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Frame OutlineColor="Black">
+            <Label Text="Marque" FontSize="Large"/>
+        </Frame>
+        <Entry x:Name="Brand" Placeholder="Marque"/>
+
+        <Button x:Name="ValidButton" Text="Click me !" Clicked="OnButtonClicked"/>
+        <Switch x:Name="ToggleButton"
+            IsToggled="true" OnColor="Coral" Toggled="OnToggled"/>
+    </StackLayout>
+    
+</ContentPage>
